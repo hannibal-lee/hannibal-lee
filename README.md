@@ -1,18 +1,11 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[您的GitHub用户名]&color=blueviolet" alt="Profile views" />
+<p>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dhannibal-lee" alt="Profile views" />
 </p>
 
-### 👋 Hi, I'm Hannibal
+Hi, I'm Hannibal.
 
-Java Engineer (Since 2019).
-Currently focusing on Python & LangChain (Since 2025).
+Java Engineer (Since 2019). Previously at Citibank.
 
----
+Currently focusing on Python, AI, and LangChain.
 
-#### 🛠️ Core Stack
-`Java` `Spring Boot` `Vue.js` `Python` `LangChain` `MySQL` `Kafka`
-
----
-
-#### 🔗 Find Me On
-* **Email**: [hannibal.lee@protonmail.com](mailto:hannibal.lee@protonmail.com)
+Email: hannibal.lee@protonmail.com
