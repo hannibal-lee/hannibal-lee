@@ -20,26 +20,21 @@ Currently pivoting into **AI / ML / LLM Development** (Python, LangChain).
 
 ---
 
-### 📊 My GitHub Stats
+### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=default&rank_icon=github&count_private=true" alt="Hannibal's GitHub Stats" />
+  <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME_1]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[YOUR_REPO_NAME_1]&theme=default" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=default" alt="Hannibal's Top Languages" />
+  <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME_2]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[YOUR_REPO_NAME_2]&theme=default" />
   </a>
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Find Me On
 
-<p align="left">
-  <a href="https://linkedin.com/in/#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:#" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+* **LinkedIn**: [linkedin.com/in/#](https://linkedin.com/in/#)
+* **Email**: [your.email@example.com](mailto:your.email@example.com)
+* **Personal Blog**: [your-blog.com](https://your-blog.com)
