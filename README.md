@@ -1,41 +1,22 @@
 ### 👋 Hi, I'm Hannibal
 
-I'm an experienced Senior Java Backend Engineer with extensive practical experience in building high-availability and scalable distributed systems. 
-
-While my expertise lies in backend architecture, I am also proficient with the Vue.js stack, giving me full-stack development capabilities.
-
----
-
-### 🔭 Current Focus & Future Direction
-
-I'm currently diving deep into Python, actively exploring the fields of Machine Learning (ML) and Large Language Models (LLM). 
-
-I am particularly passionate about developing applications with `LangChain` and am actively seeking opportunities to merge my robust backend engineering skills with cutting-edge AI technologies to build next-generation intelligent applications.
+Senior Java Backend Engineer with full-stack (Vue.js) experience.
+Currently pivoting into **AI / ML / LLM Development** (Python, LangChain).
 
 ---
 
 ### 🛠️ My Tech Stack
 
-**Backend & Database:**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-</p>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"></a>
 
-**Frontend:**
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"></a>
 </p>
-
-**AI & Machine Learning:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain">
-  </p>
 
 ---
 
@@ -43,7 +24,9 @@ I am particularly passionate about developing applications with `LangChain` and 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=default&rank_icon=github" alt="Hannibal's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=default&rank_icon=github&count_private=true" alt="Hannibal's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=default" alt="Hannibal's Top Languages" />
   </a>
 </p>
@@ -59,4 +42,4 @@ I am particularly passionate about developing applications with `LangChain` and 
   <a href="mailto:#" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  </p>
+</p>
