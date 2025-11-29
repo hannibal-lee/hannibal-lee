@@ -4,19 +4,21 @@
 
 ### 👋 Hi, I'm Hannibal
 
-I'm a Senior Java Engineer (since 2019) with a background in FinTech (formerly at **Citibank**).
-I'm currently pivoting into **AI / ML / LLM Development** and am passionate about building with Python and LangChain.
+Senior Backend & Full-Stack Engineer with 6+ years of experience in high-reliability financial systems (ex-Citibank).  
+Currently expanding into AI-driven app development with Python, LangChain, and modern web frameworks.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
-* **Backend & Data:** `Java` `Spring Boot` `MySQL` `Kafka` `Redis`
-* **Frontend:** `Vue.js` `JavaScript`
-* **AI / Learning:** `Python` `LangChain`
+**Backend:** `Java` `Spring Boot` `FastAPI` `PostgreSQL` `Kafka` `Redis`  
+**Frontend:** `React` `Next.js` `TypeScript`  
+**AI / Tools:** `Python` `LangChain` `LLM Pipelines`  
+**Infra:** `Docker` `Kubernetes` `gRPC`  
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect
 
-* **Email**: [hannibal.lee@protonmail.com](mailto:hannibal.lee@protonmail.com)
+**Email:** [hannibal.lee@protonmail.com](mailto:hannibal.lee@protonmail.com)  
+**GitHub:** https://github.com/hannibal-lee
