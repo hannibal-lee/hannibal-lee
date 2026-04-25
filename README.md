@@ -1,24 +1,27 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hannibal-lee&color=blueviolet" alt="Profile views" />
-</p>
+# 🏢 Experience
 
-### 👋 Hi, I'm Hannibal
+## 🚗 Geely Auto – AI Center
+**AI Engineer**
 
-Senior Backend & Full-Stack Engineer with 6+ years of experience in high-reliability financial systems (ex-Citibank).  
-Currently expanding into AI-driven app development with Python, LangChain, and modern web frameworks.
+- Developed AI-driven data processing pipelines
+- Built scalable backend services for AI applications
+- Optimized large-scale data workflows
+- Designed production-ready AI infrastructure
 
----
+Tech:
 
-### 🛠️ Tech Stack
-
-**Backend:** `Java` `Spring Boot` `FastAPI` `PostgreSQL` `Kafka` `Redis`  
-**Frontend:** `React` `Next.js` `TypeScript`  
-**AI / Tools:** `Python` `LangChain` `LLM Pipelines`  
-**Infra:** `Docker` `Kubernetes` `gRPC`  
+Python · FastAPI · LangChain · PostgreSQL · Redis · Docker
 
 ---
 
-### 🔗 Connect
+## 🏦 Citibank
+**Senior Backend Engineer**
 
-**Email:** [hannibal.lee@protonmail.com](mailto:hannibal.lee@protonmail.com)  
-**GitHub:** https://github.com/hannibal-lee
+- Built high-reliability financial transaction systems
+- Designed event-driven architecture with Kafka
+- Implemented distributed retry and idempotency systems
+- Optimized performance for high-concurrency workloads
+
+Tech:
+
+Java · Spring Boot · Kafka · Redis · PostgreSQL
