@@ -1,6 +1,6 @@
 # Hi, I'm Hannibal Lee 👋
 
-I'm an **AI & Full-Stack Engineer** with **6+ years of backend engineering experience** building reliable financial technology systems and production-ready AI applications.
+I'm an **AI & Full-Stack Engineer** with **7+ years of backend engineering experience** building reliable financial technology systems and production-ready AI applications.
 
 Currently working in an automotive AI team, building AI-driven systems, LLM pipelines, and applied AI solutions.
 
